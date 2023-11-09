@@ -102,6 +102,6 @@ function calculateWinner(squares) {
   return null;
 }
 
-// ========================================
+
 
 ReactDOM.render(<Board />, document.getElementById('root'));
