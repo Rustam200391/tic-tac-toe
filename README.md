@@ -1,4 +1,4 @@
-React application is a game of tic tac toe.
+React application is a game of tic tac toe.</i>
 
 https://ru.react.js.org/tutorial/tutorial.html
 
