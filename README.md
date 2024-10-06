@@ -1,4 +1,4 @@
-<i>React application is a game of tic tac toe.
+<iReact application is a game of tic tac toe.
 
 https://ru.react.js.org/tutorial/tutorial.html
 
